@@ -5,3 +5,14 @@ function iniciar() {
 }
 
 iniciar()
+
+function terminar() {
+    console.log("outra funcao qualquer")
+}
+
+if(iniciar()) {
+    console.log("iniciou")
+}
+else {
+    terminar()
+}
