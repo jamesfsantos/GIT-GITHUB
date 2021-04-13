@@ -10,3 +10,8 @@ function iniciar3() {
 }
 
 iniciar()
+function iniciar2() {
+    
+}
+
+iniciar()
