@@ -4,4 +4,9 @@ function iniciar() {
     console.log("funcao qualquer")
 }
 
+
+function iniciar3() {
+    
+}
+
 iniciar()
